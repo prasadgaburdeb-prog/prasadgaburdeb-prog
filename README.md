@@ -1,89 +1,102 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=190&section=header&text=DEB%20PRASAD%20GABUR&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=DATA%20ENGINEERING%20%7C%20AI%20%7C%20SOFTWARE&descAlignY=63&descSize=14&fontColor=00D9FF" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=INITIALIZING+DATA+SYSTEMS...;ANALYZING+TELEMETRY...;BUILDING+INTELLIGENT+SOFTWARE...;ENGINEERING+THE+NEXT+IDEA." />"[ SYSTEM STATUS: LEARNING ]"   " [ MODE: BUILD ]"   "[ SECTOR: DATA + AI ]"
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:071329,45:123B72,80:E10600,100:071329&height=190&section=header&text=DEB%20PRASAD%20GABUR&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=60&descSize=13" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=F5C518&center=true&vCenter=true&width=600&lines=ENGINEER+THE+DATA.;ANALYZE+THE+PERFORMANCE.;BUILD+INTELLIGENT+SYSTEMS." />Precision in code. Intelligence in data. Performance in execution.
 
-Turning raw data into intelligent systems.
+"DATA SYSTEMS"   •   "MACHINE LEARNING"   •   "SOFTWARE"
 
 </div>---
 
-// 01 — PROFILE
+"01 / ENGINEER PROFILE"
 
-NAME       : Deb Prasad Gabur
-ALIAS      : UchihaDev
-EDUCATION  : BCA (Honours with Research)
-INSTITUTE  : Inspiria Knowledge Campus
-LOCATION   : West Bengal, India
+I'm Deb Prasad Gabur, a BCA (Honours with Research) student at Inspiria Knowledge Campus.
 
-FOCUS      : Data Analytics | Machine Learning
-             Software Development | F1 Analytics
+I'm interested in building technology at the intersection of Data Analytics, Machine Learning and Software Engineering.
 
-OBJECTIVE  : Build technology that makes data useful.
-
-I'm a developer and data enthusiast interested in the intersection of analytics, artificial intelligence and software engineering.
-
-I enjoy exploring data, understanding patterns and developing practical applications that solve real problems.
+- 📊 Exploring data-driven decision making and analytics.
+- 🤖 Learning Machine Learning and AI fundamentals.
+- 💻 Developing practical software applications.
+- 🏎️ Interested in motorsport analytics, telemetry and race strategy.
 
 ---
 
-// 02 — TECHNICAL STACK
+"02 / TECHNICAL ARSENAL"
 
 <div align="center">PROGRAMMING & DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&theme=dark" />DATA & ANALYTICS
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&theme=dark"/>DATA TECHNOLOGIES
 
-<img src="https://img.shields.io/badge/Python-Foundations-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-Learning-150458?style=flat-square&logo=pandas&logoColor=white"/></div>---
+<img src="https://img.shields.io/badge/SQL-ADVANCED-123B72?style=for-the-badge&logo=mysql&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/PYTHON-FOUNDATIONS-123B72?style=for-the-badge&logo=python&logoColor=F5C518"/>
+<img src="https://img.shields.io/badge/PANDAS-LEARNING-123B72?style=for-the-badge&logo=pandas&logoColor=FFFFFF"/></div>---
 
-// 03 — PROJECT DEVELOPMENT
+"03 / SELECTED PROJECTS"
 
-PROJECT| DOMAIN| STATUS
-ClassPulse AI| AI / Student Analytics| In development
-F1 Horizon AI| Motorsport Analytics| Planned / development
-Wellness App| Student Wellness| On hold
-MedZrya| Healthcare Technology| In progress
+<table>
+<tr>
+<td width="50%">01 — CLASSPULSE AI
 
-🏎️ F1 HORIZON AI
+Student-focused analytics and AI project.
 
-A motorsport analytics project exploring how data can support race-performance analysis and strategic decision-making.
+"View repository ↗" (https://github.com/prasadgaburdeb-prog/ClassPulse-Ai)
 
-- Historical race data analysis
-- Driver and tyre performance comparison
-- Tyre degradation modelling
-- Pit-stop strategy analysis
-- Race strategy simulation
-- Lap-time prediction
+</td>
+<td width="50%">02 — F1 HORIZON AI
 
-📊 CLASSPULSE AI
+Motorsport analytics concept covering race strategy, tyre degradation and performance prediction.
 
-An AI-focused student analytics project.
+</td>
+</tr>
+<tr>
+<td width="50%">03 — WELLNESS APP
 
-"Explore Repository →" (https://github.com/prasadgaburdeb-prog/ClassPulse-Ai)
+Student wellness application. Frontend development and data analysis contribution.
+
+</td>
+<td width="50%">04 — MEDZRYA
+
+Patient OPD experience application. Frontend development contribution.
+
+</td>
+</tr>
+</table>---
+
+"04 / MOTOSPORT DATA INTEREST"
+
+F1 HORIZON AI — Engineering the race through data
+
+Areas of exploration:
+
+- Race telemetry and historical data
+- Driver performance comparison
+- Tyre degradation analysis
+- Pit-stop timing and strategy
+- Race simulations and lap-time prediction
+
+</div>---
+
+"05 / GITHUB PERFORMANCE"
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=prasadgaburdeb-prog&show_icons=true&hide_border=true&bg_color=071329&title_color=F5C518&icon_color=E10600&text_color=FFFFFF"/><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadgaburdeb-prog&hide_border=true&background=071329&ring=E10600&fire=F5C518&currStreakLabel=F5C518&sideLabels=FFFFFF&dates=9AAAC2"/><img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgaburdeb-prog&layout=compact&hide_border=true&bg_color=071329&title_color=F5C518&text_color=FFFFFF"/></div>---
+
+"06 / CURRENT DEVELOPMENT"
+
+Area| Focus
+Python| Strengthening fundamentals
+SQL| Advanced query development
+Pandas| Data manipulation
+Machine Learning| Fundamentals
+Analytics| Statistics and visualization
+Development| Building practical applications
 
 ---
 
-// 04 — GITHUB TELEMETRY
+"07 / ESTABLISH CONNECTION"
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=prasadgaburdeb-prog&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=00D9FF&icon_color=FF3333&text_color=CBD5E1" /><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadgaburdeb-prog&hide_border=true&background=0B0F14&ring=FF3333&fire=FF3333&currStreakLabel=00D9FF&sideLabels=CBD5E1&dates=64748B" /><img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgaburdeb-prog&layout=compact&hide_border=true&bg_color=0B0F14&title_color=00D9FF&text_color=CBD5E1" /></div>---
+<div align="center"><a href="https://github.com/prasadgaburdeb-prog"><img src="https://img.shields.io/badge/GITHUB-071329?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-123B72?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
 
-// 05 — CURRENT DEVELOPMENT
+<br/><br/>
 
-[01] Strengthening Python and Pandas
-[02] Advancing Data Analytics and SQL
-[03] Learning Machine Learning fundamentals
-[04] Exploring data visualisation
-[05] Building practical AI and analytics projects
+BUILT WITH CURIOSITY. DRIVEN BY DATA.
 
----
+"END OF TRANSMISSION // KEEP BUILDING"
 
-// 06 — CONNECTION ESTABLISHED
-
-<div align="center"><a href="https://github.com/prasadgaburdeb-prog">
-<img src="https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
-</a><br/><br/>
-
-"ENGINEERED WITH CURIOSITY."
-
-DATA IS THE NEW TELEMETRY.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,100:00D9FF&height=90&section=footer" width="100%"/></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071329,50:123B72,100:E10600&height=100&section=footer" width="100%"/></div>
