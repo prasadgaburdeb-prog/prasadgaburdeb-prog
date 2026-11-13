@@ -1,82 +1,89 @@
-<!-- Animated Header --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:090B1A,50:172554,100:7C3AED&height=200&section=header&text=DEB%20PRASAD%20GABUR&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20%7C%20AI%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=58&descSize=15" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Machine+Learning+Enthusiast;Developer+%7C+Problem+Solver;Turning+Data+Into+Insights" alt="Typing SVG" />Dream it. Analyze it. Build it.
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=190&section=header&text=DEB%20PRASAD%20GABUR&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=DATA%20ENGINEERING%20%7C%20AI%20%7C%20SOFTWARE&descAlignY=63&descSize=14&fontColor=00D9FF" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=INITIALIZING+DATA+SYSTEMS...;ANALYZING+TELEMETRY...;BUILDING+INTELLIGENT+SOFTWARE...;ENGINEERING+THE+NEXT+IDEA." />"[ SYSTEM STATUS: LEARNING ]"   " [ MODE: BUILD ]"   "[ SECTOR: DATA + AI ]"
+
+Turning raw data into intelligent systems.
 
 </div>---
 
-👨‍💻 About Me
+// 01 — PROFILE
 
-Hey! I'm Deb Prasad Gabur, also known as UchihaDev.
+NAME       : Deb Prasad Gabur
+ALIAS      : UchihaDev
+EDUCATION  : BCA (Honours with Research)
+INSTITUTE  : Inspiria Knowledge Campus
+LOCATION   : West Bengal, India
 
-I'm a BCA (Honours with Research) student at Inspiria Knowledge Campus, interested in building technology that combines data, intelligence and software.
+FOCUS      : Data Analytics | Machine Learning
+             Software Development | F1 Analytics
 
-- 📊 Interested in Data Analytics and Business Intelligence.
-- 🤖 Exploring Machine Learning and Artificial Intelligence.
-- 💻 Building software and practical development projects.
-- 🏎️ Interested in Formula 1 data and race strategy analytics.
-- 🌱 Constantly learning, experimenting and improving.
+OBJECTIVE  : Build technology that makes data useful.
 
----
+I'm a developer and data enthusiast interested in the intersection of analytics, artificial intelligence and software engineering.
 
-⚡ Tech Stack
-
-<div align="center">Programming & Development
-
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&theme=dark" />Data & Analytics
-
-"SQL" (https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"Pandas" (https://img.shields.io/badge/Pandas-Learning-150458?style=for-the-badge&logo=pandas&logoColor=white)
-"Python" (https://img.shields.io/badge/Python-Foundations-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>---
-
-🚀 Featured Projects
-
-🔹 "ClassPulse AI" (https://github.com/prasadgaburdeb-prog/ClassPulse-Ai)
-
-An AI-focused student analytics project that I'm developing.
-
-🏎️ F1 Horizon AI
-
-A Formula 1 analytics project concept focused on:
-
-- Driver performance analysis
-- Tyre degradation prediction
-- Pit-stop and race strategy analysis
-- Race simulations and predictions
-
-🧠 Wellness App
-
-A student wellness project where I contributed to frontend development and data analysis.
-
-🏥 MedZrya
-
-A patient OPD experience project where I contributed to frontend development.
+I enjoy exploring data, understanding patterns and developing practical applications that solve real problems.
 
 ---
 
-📈 GitHub Analytics
+// 02 — TECHNICAL STACK
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=prasadgaburdeb-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=7C3AED" /><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadgaburdeb-prog&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=7C3AED&currStreakLabel=38BDF8" /><img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgaburdeb-prog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" /></div>---
+<div align="center">PROGRAMMING & DEVELOPMENT
 
-🎯 Currently Learning
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode&theme=dark" />DATA & ANALYTICS
 
-- Machine Learning fundamentals
-- Python and Pandas
-- Data Visualization
-- Statistics for Data Analytics
-- Full-Stack Development
+<img src="https://img.shields.io/badge/Python-Foundations-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Learning-150458?style=flat-square&logo=pandas&logoColor=white"/></div>---
+
+// 03 — PROJECT DEVELOPMENT
+
+PROJECT| DOMAIN| STATUS
+ClassPulse AI| AI / Student Analytics| In development
+F1 Horizon AI| Motorsport Analytics| Planned / development
+Wellness App| Student Wellness| On hold
+MedZrya| Healthcare Technology| In progress
+
+🏎️ F1 HORIZON AI
+
+A motorsport analytics project exploring how data can support race-performance analysis and strategic decision-making.
+
+- Historical race data analysis
+- Driver and tyre performance comparison
+- Tyre degradation modelling
+- Pit-stop strategy analysis
+- Race strategy simulation
+- Lap-time prediction
+
+📊 CLASSPULSE AI
+
+An AI-focused student analytics project.
+
+"Explore Repository →" (https://github.com/prasadgaburdeb-prog/ClassPulse-Ai)
 
 ---
 
-🤝 Connect With Me
+// 04 — GITHUB TELEMETRY
+
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=prasadgaburdeb-prog&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=00D9FF&icon_color=FF3333&text_color=CBD5E1" /><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadgaburdeb-prog&hide_border=true&background=0B0F14&ring=FF3333&fire=FF3333&currStreakLabel=00D9FF&sideLabels=CBD5E1&dates=64748B" /><img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgaburdeb-prog&layout=compact&hide_border=true&bg_color=0B0F14&title_color=00D9FF&text_color=CBD5E1" /></div>---
+
+// 05 — CURRENT DEVELOPMENT
+
+[01] Strengthening Python and Pandas
+[02] Advancing Data Analytics and SQL
+[03] Learning Machine Learning fundamentals
+[04] Exploring data visualisation
+[05] Building practical AI and analytics projects
+
+---
+
+// 06 — CONNECTION ESTABLISHED
 
 <div align="center"><a href="https://github.com/prasadgaburdeb-prog">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-0B0F14?style=for-the-badge&logo=github&logoColor=white"/>
 </a><a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a></div>---
+<img src="https://img.shields.io/badge/LINKEDIN-0B0F14?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
+</a><br/><br/>
 
-<div align="center">💡 Code. Analyze. Innovate.
+"ENGINEERED WITH CURIOSITY."
 
-Building today. Learning every day. Creating for tomorrow.
+DATA IS THE NEW TELEMETRY.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:172554,100:090B1A&height=100&section=footer" width="100%" /></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,100:00D9FF&height=90&section=footer" width="100%"/></div>
