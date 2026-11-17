@@ -1,7 +1,12 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:071329,25:123B72,55:0066CC,80:E10600,100:F5C518&height=210&section=header&text=DEB%20PRASAD%20GABUR&fontSize=39&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=62&descSize=14" width="100%"/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=800&color=F5C518&center=true&vCenter=true&width=700&lines=DATA+DRIVES+DECISIONS.;CODE+BUILDS+POSSIBILITIES.;INTELLIGENCE+CREATES+PERFORMANCE.;WELCOME+TO+MY+ENGINEERING+PADDOCK." /><br/><img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20AI-0066CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INTEREST-MOTORSPORT-E10600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-F5C518?style=for-the-badge"/>Precision in code. Intelligence in data. Performance in execution.
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:071329,25:123B72,55:0066CC,80:E10600,100:F5C518&height=210&section=header&text=DEB%20PRASAD%20GABUR&fontSize=39&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYTICS%20%7C%20AI%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=62&descSize=14" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2500&pause=800&color=F5C518&center=true&vCenter=true&width=700&lines=DATA+DRIVES+DECISIONS.;CODE+BUILDS+POSSIBILITIES.;INTELLIGENCE+CREATES+PERFORMANCE.;WELCOME+TO+MY+ENGINEERING+PADDOCK."/>
+  <br/>
+  <img src="https://img.shields.io/badge/FOCUS-DATA%20%26%20AI-0066CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/INTEREST-MOTORSPORT-E10600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-F5C518?style=for-the-badge"/>
+  <br/>
+  Precision in code. Intelligence in data. Performance in execution.
 </div>---
 
 <h2 align="center">🏁 THE DRIVER PROFILE</h2><div align="center">Hello, I'm Deb Prasad Gabur 👋
@@ -55,7 +60,7 @@ BCA (Honours with Research) | Inspiria Knowledge Campus
 <img src="https://img.shields.io/badge/STRATEGY-SIMULATION-E10600?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PERFORMANCE-PREDICTION-F5C518?style=for-the-badge"/></div>An exploration of how data science and machine learning can support motorsport decision-making.
 
-Analysis area| Focus
+Analysis Area| Focus
 🏁 Race Analytics| Historical race performance
 👨‍✈️ Driver Analytics| Driver comparisons
 🛞 Tyre Intelligence| Compound and degradation analysis
@@ -65,9 +70,9 @@ Analysis area| Focus
 
 ---
 
-<h2 align="center">📡 GITHUB TELEMETRY</h2><div align="center"><img height="175" src="https://github-readme-stats.vercel.app/api?username=prasadgaburdeb-prog&show_icons=true&hide_border=true&bg_color=071329&title_color=F5C518&icon_color=E10600&text_color=FFFFFF&ring_color=00A6ED"/><img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadgaburdeb-prog&hide_border=true&background=071329&ring=E10600&fire=F5C518&currStreakLabel=00A6ED&sideLabels=FFFFFF&dates=9AAAC2"/><br/><img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgaburdeb-prog&layout=compact&hide_border=true&bg_color=071329&title_color=F5C518&text_color=FFFFFF"/></div>---
+<h2 align="center">📡 GITHUB TELEMETRY</h2><div align="center"><img height="175" src="https://github-readme-stats.vercel.app/api?username=prasadgaburdeb-prog&show_icons=true&hide_border=true&bg_color=071329&title_color=F5C518&icon_color=E10600&text_color=FFFFFF&ring_color=00A6ED"/><img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadgaburdeb-prog&hide_border=true&background=071329&ring=E10600&fire=F5C518&currStreakNum=F5C518&sideNums=E10600&currStreakLabel=00A6ED&sideLabels=FFFFFF&dates=9AAAC2"/><br/><img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasadgaburdeb-prog&layout=compact&hide_border=true&bg_color=071329&title_color=F5C518&text_color=FFFFFF"/></div>---
 
-<h2 align="center">🔧 CURRENT DEVELOPMENT</h2><div align="center">Technology| Development focus
+<h2 align="center">🔧 CURRENT DEVELOPMENT</h2><div align="center">Technology| Development Focus
 🐍 Python| Programming fundamentals
 🗄️ SQL| Advanced querying
 🐼 Pandas| Data manipulation
